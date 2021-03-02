@@ -1,0 +1,16 @@
+path:
+- data.csv
+- data.rds
+rows: 6663
+cols: 5
+columns:
+  ref_code: character
+  ref_desc: character
+  tbl_code: character
+  parent_code: character
+  parent_tbl: character
+description: codes pin test
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

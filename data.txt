@@ -1,0 +1,6 @@
+- path: codes
+  name: codes
+  rows: 6663
+  cols: 5
+  description: codes pin test
+  type: table
