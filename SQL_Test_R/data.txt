@@ -1,0 +1,6 @@
+path: SQL Test - R.db
+extension: db
+description: master codes database file
+type: files
+filenames:
+  SQL Test - R.db: SQL Test - R.db
