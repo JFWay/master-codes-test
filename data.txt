@@ -7,5 +7,5 @@
 - path: SQL_Test_R
   name: SQL_Test_R
   extension: db
-  description: master codes database file
+  description: db file pin test
   type: files

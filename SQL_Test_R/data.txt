@@ -1,6 +1,6 @@
 path: SQL Test - R.db
 extension: db
-description: master codes database file
+description: db file pin test
 type: files
 filenames:
   SQL Test - R.db: SQL Test - R.db
